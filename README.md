@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Create Newyork Times App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This article shows the most popular list of articles, on click of each article we will get 
+details view of the article. On click of home at header, it will redirect to landing page where list of articles is visible.
+![alt text](src\assets\images\listView.png)
+![alt text](src\assets\images\detailedView.png) 
 
 ## Available Scripts
 
@@ -21,7 +24,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests] for more information.
 
 ### `npm run coverage`
 
@@ -35,9 +38,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment] for more information.
 
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
-

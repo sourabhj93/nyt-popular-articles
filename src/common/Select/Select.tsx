@@ -18,7 +18,7 @@ const Select = (props: ISelectProps) => {
   return (
     <div>
       <label htmlFor="dropdown" style={{ fontSize: 16, fontWeight: 500 }}>
-        Choose periodic value :{" "}
+        Choose periodic value :
       </label>
       <select
         data-testid="dropdown"
