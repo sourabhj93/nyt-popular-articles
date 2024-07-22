@@ -5,8 +5,10 @@
 .navAlignment {
   margin-left: 24px;
   cursor: pointer;
-  text-decoration: underline;
+  border: none;
+  background-color: white;
 }
 .navAlignment:hover {
   color: blue;
+  text-decoration: underline;
 }

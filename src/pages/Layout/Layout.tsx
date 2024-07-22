@@ -8,13 +8,13 @@ export const Layout = () => {
     <>
       <header>
         <h3 className="container">NYT Popular Articles</h3>
-        <div
+        <button
           data-testid="home-nav"
           className="navAlignment"
           onClick={() => navigate("/home")}
         >
           Home
-        </div>
+        </button>
       </header>
       <hr />
       <Outlet />
