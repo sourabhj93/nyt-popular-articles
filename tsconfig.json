@@ -17,5 +17,5 @@
     "allowSyntheticDefaultImports": true,
     "isolatedModules": true
   },
-  "include": ["src/*.ts", "src/*.tsx", "src/**/*.ts", "src/**/*.tsx", "src/index.js"]
+  "include": ["src/*.ts", "src/*.tsx", "src/**/*.ts", "src/**/*.tsx", "src/index.tsx", "src/setupTests.ts"]
 }

@@ -21,12 +21,12 @@ Open [http://localhost:3000/home] to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `npm run test a`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests] for more information.
 
-### `npm run coverage`
+### `npm run coverage a`
 
 Launches the coverage runner for test cases in the interactive watch mode.
 
