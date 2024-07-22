@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+}
+.navAlignment {
+  margin-left: 24px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.navAlignment:hover {
+  color: blue;
+}

@@ -1,0 +1,18 @@
+.flex-card {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  border: 1px solid #e5d9d9;
+  border-radius: 12px;
+}
+.flex-card-image img {
+  height: 250px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.flex-card-content {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+}

@@ -1,0 +1,16 @@
+.articleContainer {
+  display: flex;
+  flex-direction: row;
+}
+.backBtn {
+  font-size: 18px;
+  margin: 8px;
+  height: 100%;
+}
+.flex-card {
+  margin: 8px auto;
+  width: 380px;
+}
+.flex-card-image img {
+  width: 380px;
+}

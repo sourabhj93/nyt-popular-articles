@@ -1,0 +1,13 @@
+.selectSection {
+    margin-left: auto;
+    width: 250px;
+  }
+  .containerSection {
+    display: flex;
+    flex-flow: wrap;
+  }
+  .articleList {
+    display: flex;
+    flex-direction: column;
+  }
+  
