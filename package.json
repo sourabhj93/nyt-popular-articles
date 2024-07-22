@@ -25,7 +25,7 @@
     "moduleNameMapper": {
       "^axios$": "axios/dist/node/axios.cjs"
     },
-    "collectCoverageFrom": ["src/**/*.{ts,tsx}", "!<rootDir>/src/index.js", "!<rootDir>/src/reportWebVitals.js"]
+    "collectCoverageFrom": ["src/**/*.{ts,tsx}", "!<rootDir>/src/index.tsx", "!<rootDir>/src/reportWebVitals.ts"]
   },
   "eslintConfig": {
     "extends": [
