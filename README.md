@@ -1,9 +1,9 @@
-# Getting Started with Create Newyork Times App
+# Getting Started with Newyork Times App
 
 This article shows the most popular list of articles, on click of each article we will get 
 details view of the article. On click of home at header, it will redirect to landing page where list of articles is visible.
-![alt text](src\assets\images\listView.png)
-![alt text](src\assets\images\detailedView.png) 
+![alt text](src/assets/images/listView.png)
+![alt text](src/assets/images/detailedView.png) 
 
 ## Available Scripts
 

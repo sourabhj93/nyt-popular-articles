@@ -7,7 +7,7 @@ export const Layout = () => {
   return (
     <>
       <header>
-        <h3 className="container">Popular articles</h3>
+        <h3 className="container">NYT Popular Articles</h3>
         <div
           data-testid="home-nav"
           className="navAlignment"
